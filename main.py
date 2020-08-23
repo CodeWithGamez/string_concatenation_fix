@@ -26,3 +26,7 @@ words_8 = "or search to help whenever you get"
 words_9 = "because you will get stuck"
 
 print( words_6 + words_7 + words_8 + words_9)
+
+#4 Should print out, sometimes you can forget a + sign
+
+print("Sometimes you can forget a " + "+" "sign")
